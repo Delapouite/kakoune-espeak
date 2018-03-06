@@ -27,7 +27,7 @@ You can therefore add your own mappings with `map global espeak <your expression
 Then to enter this user mode, add a normal mapping:
 
 ```
-map global normal <a-,> ':enter-user-mode global espeak<ret>'
+map global normal <a-,> ':enter-user-mode espeak<ret>'
 ```
 
 ## Licence
